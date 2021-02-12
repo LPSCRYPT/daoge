@@ -1,4 +1,4 @@
-# DAOGE
+# DAOGE - alpha
 dao for renDoge peace proposals
 
 Starts with an Admin, who can add more Admins and Users.
